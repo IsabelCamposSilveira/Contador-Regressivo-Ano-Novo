@@ -12,14 +12,15 @@ body{
 
 h1{
     margin-top: 150px;
-    font-size: 3em;
+    font-size: 6em;
+    opacity: 0.8;
 }
 
 div{
-    display: inline-block;
     margin: 0 50px;
+    display: inline-block;
 }
-p{
+h2{
     font-size: 4em;
     font-weight: bold;
     margin: 0;
@@ -27,3 +28,8 @@ p{
 span{
     font-size: 1.5em;
 }
+
+img{
+    width: 150px;
+}
+
